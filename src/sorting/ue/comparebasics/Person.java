@@ -1,4 +1,4 @@
-package org.campus02.comparebasics;
+package sorting.ue.comparebasics;
 
 public class Person implements Comparable<Person> {
 

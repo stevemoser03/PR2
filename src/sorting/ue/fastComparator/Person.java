@@ -1,4 +1,4 @@
-package org.campus02.fastComparator;
+package sorting.ue.fastComparator;
 
 public class Person {
 

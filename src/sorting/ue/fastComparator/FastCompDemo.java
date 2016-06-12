@@ -1,4 +1,4 @@
-package org.campus02.fastComparator;
+package sorting.ue.fastComparator;
 
 import java.util.ArrayList;
 import java.util.Collections;

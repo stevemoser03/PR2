@@ -1,4 +1,4 @@
-package org.campus02.comparebasics;
+package sorting.ue.comparebasics;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
